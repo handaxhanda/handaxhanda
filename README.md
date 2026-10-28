@@ -3,9 +3,6 @@
 <!-- プロフィールの閲覧数 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=handaxhanda)
 
-<!-- よく使っているプログラミング言語の割合 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=handaxhanda&layout=compact)
-
 <!--
 **handaxhanda/handaxhanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
