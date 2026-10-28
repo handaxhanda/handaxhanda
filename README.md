@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 <!-- プロフィールの閲覧数 -->
-![Profile Views](https://komarev.com/ghpvc/?username=handaxhanda)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=handaxhanda" alt="Profile Views" />
+</p>
 
-<!-- GitHubの活動統計（プライベートの活動数を含む） -->
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=handaxhanda&show_icons=true&count_private=true)
-
-<!-- よく使っているプログラミング言語の割合 -->
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=compact)
+<!-- GitHubの活動統計と言語割合（横並び） -->
+<p>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=handaxhanda&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=compact" />
+</p>
 
 <!--
 **handaxhanda/handaxhanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
