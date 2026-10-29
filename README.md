@@ -30,7 +30,3 @@ Beyond game development, I enjoy learning about several areas of computing:
 
 [![Website](https://img.shields.io/badge/Website-0078D4?style=flat)](https://handaxhanda.github.io/website05/index.html)
 [![Misskey](https://img.shields.io/badge/Misskey-86B300?style=flat&logo=misskey&logoColor=white)](https://misskey.io/@handaxhanda0x0)
-
-## GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=compact" alt="Most used languages in public GitHub repositories" height="165" />
