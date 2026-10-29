@@ -20,8 +20,6 @@ Beyond game development, I enjoy learning about several areas of computing:
 
 ## Languages
 
-## Languages
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,8 +28,8 @@ Beyond game development, I enjoy learning about several areas of computing:
 
 ## Links
 
-[![Website](https://img.shields.io/badge/Website-Visit-0078D4?style=flat)](https://handaxhanda.github.io/website05/index.html)
-[![Misskey](https://img.shields.io/badge/Misskey-Follow-86B300?style=flat&logo=misskey&logoColor=white)](https://misskey.io/@handaxhanda0x0)
+[![Website](https://img.shields.io/badge/Website-0078D4?style=flat)](https://handaxhanda.github.io/website05/index.html)
+[![Misskey](https://img.shields.io/badge/Misskey-86B300?style=flat&logo=misskey&logoColor=white)](https://misskey.io/@handaxhanda0x0)
 
 ## GitHub Stats
 
