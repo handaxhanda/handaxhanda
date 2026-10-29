@@ -7,7 +7,6 @@
 
 <!-- GitHubの活動統計と言語割合（横並び） -->
 <p>
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=handaxhanda&show_icons=true&count_private=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=compact" />
 </p>
 
