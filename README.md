@@ -8,7 +8,7 @@ I'm based in Japan.
 
 ### A Game Framework in C++20 and DirectX 11
 
-I'm building a game framework as a long-term learning project.
+I'm building a game framework as a long-term learning project.(private repository)
 
 ## Other Interests
 
@@ -20,10 +20,13 @@ Beyond game development, I enjoy learning about several areas of computing:
 
 ## Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="C, C++, HTML, CSS, JavaScript" height="48" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_hlsl.svg" alt="HLSL" width="48" height="48" />
-</p>
+## Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Links
 
