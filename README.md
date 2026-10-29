@@ -6,9 +6,9 @@ I'm based in Japan.
 
 ## What I'm Working On
 
-### A Game Framework in C++20 and DirectX 11
-
-I'm building a game framework as a long-term learning project. The repository is currently private.
+I'm building a game framework using C++20 and DirectX 11
+as a long-term learning project.
+The repository is currently private.
 
 ## Other Interests
 
