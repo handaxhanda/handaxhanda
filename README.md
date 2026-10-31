@@ -26,7 +26,7 @@ Beyond game development, I enjoy learning about several areas of computing:
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)-->
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=donut-vertical&langs_count=20&theme=github_dark&hide_title=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=handaxhanda&layout=donut-vertical&langs_count=20&theme=github_dark&hide_title=true&hide_border=true)
 
 ## Links
 
