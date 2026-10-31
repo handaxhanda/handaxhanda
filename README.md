@@ -1,7 +1,5 @@
 # Hello, I'm handaxhanda
 
-I'm based in Japan.
-
 ![Profile views](https://komarev.com/ghpvc/?username=handaxhanda)
 
 ## What I'm Working On
