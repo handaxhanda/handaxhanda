@@ -28,4 +28,4 @@ Beyond game development, I enjoy learning about several areas of computing:
 ## Links
 
 [![Website](https://img.shields.io/badge/Website-0078D4?style=flat)](https://site.handas.dev)
-[![Misskey](https://img.shields.io/badge/Misskey-86B300?style=flat&logo=misskey&logoColor=white)](https://misskey.io/@handaxhanda0x0)
+[![Misskey](https://img.shields.io/badge/Misskey-86B300?style=flat&logo=misskey&logoColor=white)](https://misskey.handas.dev/@handa)
